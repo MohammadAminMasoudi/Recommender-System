@@ -1,0 +1,9 @@
+numpy>=2.0
+pandas>=2.2
+scikit-learn>=1.4
+torch>=2.3
+torchmetrics>=1.4
+deepctr-torch>=0.2.9
+pyspark>=3.5
+findspark>=2.0.1
+psutil>=5.9

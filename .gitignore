@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pkl
+*.log
+
+# Virtual envs
+.venv/
+venv/
+env/
+
+# Jupyter / Colab
+.ipynb_checkpoints/
+*.ipynb
+
+# Data
+data/
+datasets/
+*.csv
+*.xlsx
+*.parquet
+
+# IDEs
+.vscode/
+.idea/
+*.iml
+
+# OS
+.DS_Store
+Thumbs.db
