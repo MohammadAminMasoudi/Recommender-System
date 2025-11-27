@@ -1,4 +1,5 @@
 # Recommender-System
+<<<<<<< HEAD
 
 A complete collection of recommendation system models built on a real B2B sales dataset.
 
@@ -27,3 +28,6 @@ The code is organised in small, reusable Python modules so that you can:
 > `Sales_Dist6_Tehran.xlsx` on Google Drive (or a local path) with columns such as
 > `ShipToNum`, `MatNum`, `BillingDate`, `CustGrpName`, `MatName`, `BillingNetValue`,
 > `BillingNetWeight`, etc. See the per‑project READMEs for details.
+=======
+A complete collection of recommendation system models including DeepFM-based CTR ranking, next-basket prediction, ALS matrix factorization, co-occurrence reranking, time-decayed popularity, and segment-aware hybrid recommendation.
+>>>>>>> 81130d086eb0e5bfb0ee10121e8bf905e5f6f14a
