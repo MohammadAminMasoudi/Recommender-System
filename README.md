@@ -1,6 +1,6 @@
 # Recommender-System
 
-A complete collection of recommendation system models built on a real B2B sales dataset.
+Recommendation system models built on a real B2B sales dataset.
 
 This repository contains two main projects:
 
