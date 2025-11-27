@@ -4,13 +4,13 @@ A complete collection of recommendation system models built on a real B2B sales 
 
 This repository contains two main projects:
 
-1. **`deepfm_ctr/` – DeepFM CTR & next-basket rerankers (PyTorch + DeepCTR‑Torch)**  
-- Next‑basket CTR reranking
-- Last‑day (LOO) CTR reranking with Top‑K metrics
-- Revenue‑aware evaluation
-- Per‑customer‑group DeepFM models
+**`deepfm_ctr/` – DeepFM CTR & next-basket rerankers (PyTorch + DeepCTR‑Torch)**  
+  - Next‑basket CTR reranking
+  - Last‑day (LOO) CTR reranking with Top‑K metrics
+  - Revenue‑aware evaluation
+  - Per‑customer‑group DeepFM models
 
-2. **`als_hybrid_segment/` – ALS + Co‑occurrence + Popularity + Product‑segment reranker (PySpark)**  
+**`als_hybrid_segment/` – ALS + Co‑occurrence + Popularity + Product‑segment reranker (PySpark)**  
    - Matrix factorization with implicit ALS
    - Co‑occurrence and time‑decayed popularity signals
    - Segment‑aware reranking using product semantic groups
